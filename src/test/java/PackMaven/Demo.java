@@ -11,7 +11,7 @@ public class Demo {
         driver.get("https://www.gooogle.com");
         System.out.println(driver.getTitle());
         System.out.println(driver.getCurrentUrl());
-        Thread.sleep(3000);  ///hi this to check syncxx1234556
+        Thread.sleep(3000);  ///hi this to check syncxx1234556000000
         driver.close();
 
     }
